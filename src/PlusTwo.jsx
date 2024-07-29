@@ -11,8 +11,6 @@ function plustwo () {
                         <li>Public Board of Examination,Kerala</li>
                         <li>From MHSS Moonniyur</li>
                         <li>Located in Mooniyur,Malappuram Dist.</li>
-                        <li>Pass percentage:89%</li>
-                        <li>Year:2018</li>
                     </ul>
             </div>
        </div>
