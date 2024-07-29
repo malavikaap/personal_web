@@ -1,0 +1,20 @@
+.root {
+    text-align: center;
+    color:black;
+    margin-top: 100px;
+
+}
+.body {
+    background-color: rgb(252, 255, 252);
+    height: 100%;
+    width: 100%;
+}
+.fullbody {
+    background-color: rgb(252, 255, 252);
+    align-items: center;
+    size: 20px;
+}
+.but {
+    align-items: right;
+    size: 200px;
+}
